@@ -4,7 +4,7 @@ But hold on a second. There’s no silver bullet solution that works perfectly f
 
 Do you have any of the following concerns below?
 
-→ [[Vault is just a local folder|I don’t want my notes to been seen by others]]
+→ [[Vault is just a local folder|I don’t want my notes to be seen by others]]
 
 → [[Vault is just a local folder|I don’t want my notes to be inaccessible someday]]
 
